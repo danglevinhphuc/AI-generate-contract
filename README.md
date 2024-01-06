@@ -14,16 +14,22 @@ This is a [Next.js](https://nextjs.org/) project Create Contract by AI
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/danglevinhphuc/AI-generate-contract.git
    ```
 2. Install dependencies
    ```sh
    yarn install
+   # or
+   npm install
    ```
 
 ## Run Locally
 
-First, run the development server:
+1. Get an account from OpenAI and generate your own API key
+
+2. Rename env.local to .env and populate with your values
+
+3. run the development server:
 
 ```bash
 npm run dev
