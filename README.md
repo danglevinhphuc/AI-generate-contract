@@ -5,7 +5,6 @@ This is a [Next.js](https://nextjs.org/) project Create Contract by AI
  - [ReactJS](https://reactjs.org/)
  - [NextJS](https://nextjs.org/)
  - [Open AI API](https://platform.openai.com/docs/api-reference)
- - [Vercel AI SDK](https://github.com/vercel/ai)
  - [TailwindCSS](https://tailwindcss.com/)
  - [Shadcn UI](https://ui.shadcn.com/)
  - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
